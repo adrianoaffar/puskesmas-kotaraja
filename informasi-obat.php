@@ -1,3 +1,6 @@
+
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,20 +11,20 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="styles.css" />
-    <title>Web Design Mastery | HealthCare</title>
+    <title>Puskesmas Kotaraja | Beranda</title>
   </head>
   <body>
     <header>
       <nav class="section__container nav__container">
-        <div class="nav__logo">Health<span>Care</span></div>
+        <div class="nav__logo">Puskesmas<span>Kotaraja</span></div>
         <ul class="nav__links">
-          <li class="link"><a href="#">Home</a></li>
-          <li class="link"><a href="#">About Us</a></li>
-          <li class="link"><a href="#">Services</a></li>
-          <li class="link"><a href="#">Pages</a></li>
-          <li class="link"><a href="#">Blog</a></li>
+          <li class="link"><a href="index.php">Beranda</a></li>
+          <li class="link"><a href="tentang-kami.php">Tentang kami</a></li>
+          <li class="link"><a href="pelayanan.php">Pelayanan</a></li>
+          <li class="link"><a href="ketersediaan-obat.php">Ketersediaan Obat</a></li>
+          <li class="link"><a href="informasi-obat.php">Informasi Publik</a></li>
         </ul>
-        <button class="btn">Contact Us</button>
+        <button class="btn">Hubungi Kami</button>
       </nav>
       <div class="section__container header__container">
         <div class="header__content">
@@ -244,7 +247,7 @@
       </div>
       <div class="footer__bar">
         <div class="footer__bar__content">
-          <p>Copyright © 2023 Web Design Mastery. All rights reserved.</p>
+          <p>Copyright © 2023 Care Connect. All rights reserved.</p>
           <div class="footer__socials">
             <span><i class="ri-instagram-line"></i></span>
             <span><i class="ri-facebook-fill"></i></span>
